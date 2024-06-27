@@ -1,15 +1,20 @@
 Universidad Peruana de Ciencias Aplicadas
 
 INFORME TRABAJO FINAL
+
 CURSO PROCESAMIENTO DE IMÁGENES
+
 Carrera de Ciencias de la Computación 
+
 Sección: CC61
 
 Alumnos:
 Código         Nombres y Apellidos
 ----------------------------------------
 u202122837     Fernando Samuel Paredes Espinoza
+
 u202114233     Anthony Hans Tarrillo Ayllón
+
 u202121973     Andres Joshua Rodriguez Guerrero
 
 Lima, Junio de 2024
@@ -44,6 +49,10 @@ Objetivos Específicos:
 3. Investigar, seleccionar y aplicar técnicas de procesamiento de imágenes como el Filtrado Espacial con Filtro Gaussiano para suavizar las imágenes y la Segmentación de Color, con el objetivo de mejorar la precisión y la capacidad de alerta del sistema junto con YOLO v8.
 4. Desarrollar un sistema de alertas que notifique de manera inmediata al usuario cuando se detecte un objeto o acción de interés en el video, garantizando tiempos de respuesta rápidos y efectivos.
 5. Evaluar la precisión y eficiencia del sistema implementado mediante pruebas exhaustivas con diferentes escenarios y condiciones de iluminación, validando la efectividad del conjunto de técnicas empleadas para la detección y alerta en tiempo real.
+
+
+Desarollo (Realizado en el informe pdf)
+
 
 Conclusión
 
